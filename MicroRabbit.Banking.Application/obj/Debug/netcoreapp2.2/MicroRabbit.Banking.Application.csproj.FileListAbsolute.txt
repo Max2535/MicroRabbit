@@ -1,0 +1,9 @@
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.deps.json
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.csprojAssemblyReference.cache
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.AssemblyInfo.cs
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.pdb

@@ -3,3 +3,7 @@ C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\ne
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.AssemblyInfo.cs
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.pdb
