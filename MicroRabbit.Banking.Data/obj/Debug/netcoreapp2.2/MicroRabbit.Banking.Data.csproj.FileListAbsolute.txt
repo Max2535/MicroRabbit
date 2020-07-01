@@ -1,9 +1,14 @@
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.deps.json
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.runtimeconfig.json
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.runtimeconfig.dev.json
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.dll
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.pdb
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.csprojAssemblyReference.cache
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.AssemblyInfo.cs
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.csproj.CopyComplete
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.dll
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.pdb
