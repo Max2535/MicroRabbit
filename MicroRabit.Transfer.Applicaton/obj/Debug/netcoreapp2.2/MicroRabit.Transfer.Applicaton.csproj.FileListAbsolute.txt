@@ -7,3 +7,8 @@ C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\obj
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.dll
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.pdb
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.csprojAssemblyReference.cache
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.csproj.CopyComplete

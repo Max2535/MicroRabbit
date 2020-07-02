@@ -1,0 +1,6 @@
+Add-Migration "Initial Migration" -Context BankingDbContext
+Update-Database -Context BankingDbContext
+
+
+Add-Migration "Initial Migration" -Context TransferDbContext
+Update-Database -Context TransferDbContext

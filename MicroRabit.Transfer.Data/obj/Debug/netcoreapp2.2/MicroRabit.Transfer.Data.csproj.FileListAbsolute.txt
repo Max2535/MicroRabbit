@@ -1,9 +1,16 @@
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.deps.json
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.runtimeconfig.json
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.runtimeconfig.dev.json
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.dll
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.csprojAssemblyReference.cache
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.csproj.CoreCompileInputs.cache
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.AssemblyInfoInputs.cache
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.AssemblyInfo.cs
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.csproj.CopyComplete
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.dll
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.pdb
-C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.csprojAssemblyReference.cache
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb

@@ -25,3 +25,9 @@ C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csproj.CopyComplete
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.dll
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.pdb
