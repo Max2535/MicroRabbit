@@ -6,3 +6,4 @@ C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\obj\De
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.AssemblyInfo.cs
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.csprojAssemblyReference.cache

@@ -6,3 +6,4 @@ C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.AssemblyInfo.cs
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.dll
 C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Data.csprojAssemblyReference.cache
