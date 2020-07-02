@@ -1,0 +1,8 @@
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.deps.json
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\bin\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.pdb
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.csproj.CoreCompileInputs.cache
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.AssemblyInfoInputs.cache
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.AssemblyInfo.cs
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.dll
+C:\Users\IT_SUPPCHAI\source\repos\MicroRabbit\MicroRabit.Transfer.Applicaton\obj\Debug\netcoreapp2.2\MicroRabit.Transfer.Applicaton.pdb
